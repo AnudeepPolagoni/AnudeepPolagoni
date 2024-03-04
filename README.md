@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @AnudeepPolagoni
-- 👀 I’m interested in Analytical roles
-- 🌱 I’m proficient in Python, SQL, Excel and Tableau
-- 📫 You can reach out to me on anudeep.uf124@gmail.com
+- 👋 Hi there, I'm @AnudeepPolagoni 👋
+👀 I'm passionate about analytical roles and thrive in solving complex problems through data-driven insights.
+🌱 Proficient in Python, SQL, Excel, and Tableau, I specialize in extracting meaningful information from datasets to drive informed decision-making.
+📫 Feel free to reach out to me at anudeep.uf124@gmail.com. I'm always open to connecting and discussing exciting opportunities!
+
 
 <!---
 AnudeepPolagoni/AnudeepPolagoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

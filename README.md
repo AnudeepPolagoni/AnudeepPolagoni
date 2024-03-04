@@ -1,7 +1,7 @@
 - 👋 Hi there, I'm @AnudeepPolagoni 👋
-👀 I'm passionate about analytical roles and thrive in solving complex problems through data-driven insights.
-🌱 Proficient in Python, SQL, Excel, and Tableau, I specialize in extracting meaningful information from datasets to drive informed decision-making.
-📫 Feel free to reach out to me at anudeep.uf124@gmail.com. I'm always open to connecting and discussing exciting opportunities!
+- 👀 I'm passionate about analytical roles and thrive in solving complex problems through data-driven insights.
+- 🌱 Proficient in Python, SQL, Excel, and Tableau, I specialize in extracting meaningful information from datasets to drive informed decision-making.
+- 📫 Feel free to reach out to me at anudeep.uf124@gmail.com. I'm always open to connecting and discussing exciting opportunities!
 
 
 <!---
